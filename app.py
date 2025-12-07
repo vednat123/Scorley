@@ -173,9 +173,6 @@ st.markdown("""
 
 
 
-'''
-Main Application
-'''
 
 
 # Header
